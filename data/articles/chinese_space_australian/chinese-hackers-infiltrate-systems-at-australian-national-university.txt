@@ -1,0 +1,32 @@
+Hackers based in China have infiltrated one of Australia's most prestigious universities, and the threat is yet to be shut down.The ABC has been told the Australian National University (ANU) system was first compromised last year.In a statement, the ANU said it had been working with intelligence agencies for several months to minimise the impact of the threat."The university has been working in partnership with Australian government agencies for several months to minimise the impact of this threat, and we continue to seek and take advice from Australian government agencies," ANU said.Cyber Security Minister Angus Taylor said the Australian Cyber Security Centre (ACSC) would continue to assist the ANU in shutting the hackers out."The [ACSC] works closely with any affected organisations to reduce the likelihood of threat actors being successful and to help them recover when they are compromised," he said in a statement.The IT breach has been described by the Australian Strategic Policy Institute's executive director Peter Jennings as a "really serious and unacceptable situation"."It [ANU] probably should have actually been doing a better job at looking after its computer security and I find it astounding to hear that the hackers are still having access inside the ANU system," he said."That strikes me as unbelievable." He said he believed the hackers would be interested in obtaining a range of information from the IT system."This is all about intellectual property theft, it's part of a global Chinese campaign to suck up as much information as they can from centres of learning and business around the world," he said.The ANU said it did not believe any data has been stolen."Current assessments indicate no staff, student or research information has been taken and counter-measures are being undertaken," ANU said.However one intelligence source told the ABC that was a "bold statement to make" considering the threat was still active, and that sentiment is shared by Mr Jennings."I can tell you that is ultimately to be shown to be incorrect," he said."My sense is that it would be impossible for a sophisticated Chinese entity to be operating on the ANU system and not get value out of it."Mr Jennings said the incident serves as a wake-up call for all universities."There is no excuse for any complex Australian organisation to be naive about the risk of intellectual property theft, particularly by China," he said.Professor Greg Austin, from the Australian Centre for Cyber Security at UNSW Canberra, said the hackers could have also been trying to find details about international students."The Chinese government is trying to track down people they regard as corrupt and to track down the family members of people they regard as criminal."Mr Austin said cyber security is an issue at other universities in Australia and around the world."The cyber security of universities worldwide is usually not very high and it's a question for Australian universities just how good their defences are in cyber space."Despite the hackers entering the IT system last year, students at the ANU were only notified by email on Friday night. Vice Chancellor Brian Schmidt confirmed the reports in the media and said students might experience delays with the computer network in the days ahead. "Over coming days there will be disruptions to IT services while our teams work to resolve these issues," he said in an email. Mr Jennings said the ANU had a lot of questions to answer about how this breach occurred and when it first became aware of it."What were they doing to protect their systems? What were they doing to make sure that their systems were being checked?" he said.While Mr Taylor would not confirm that China was behind the attacks, he said the Government "condemns any malicious activity" that targets Australia."We know that nation states and criminal groups actively target research and tertiary institutions to steal the intellectual property of hardworking Australians," he said."Malicious cyber activity against Australia's national interests, whether from criminal syndicates or foreign states, is increasing in frequency, sophistication and severity, and the Australian Government's highest priority is ensuring Australians are safe and our interests are secure."
+Topics:
+computers-and-technology,
+
+
+	
+	hacking,
+
+
+	
+	government-and-politics,
+
+
+	
+	australian-national-university-0200,
+
+
+	
+	act,
+
+
+	
+	canberra-2600,
+
+
+	
+	china
+
+    First posted 
+    
+      July 06, 2018 18:12:57
+    

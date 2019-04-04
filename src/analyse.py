@@ -6,7 +6,7 @@ import spacy
 
 spacy_nlp = spacy.load('en')
 
-path = 'data/articles'
+path = 'data/articles/indian-australian'
 
 files = []
 
@@ -48,7 +48,7 @@ for r, d, f in os.walk(path):
 			files.append(os.path.join(r, file))
 
 
-with open('data/counts.csv', 'w') as output:
+with open('data/indian-australian-counts.csv', 'w') as output:
 	writer = csv.writer(output)
 	writer.writerow(["word","count","entity"])
 	for f in files:
@@ -69,7 +69,7 @@ with open('data/counts.csv', 'w') as output:
 				entity = get_entity(cleaned_word)
 				print(cleaned_word, blobs.noun_phrases.count(word), entity)
 				writer.writerow([cleaned_word, blobs.noun_phrases.count(word), entity])
-f.close()
+output.close()
 
 
 # with open('data/sentiment.csv', 'w') as f:

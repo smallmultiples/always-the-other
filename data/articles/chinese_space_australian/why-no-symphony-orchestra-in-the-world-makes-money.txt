@@ -1,0 +1,40 @@
+Orchestras produce a unique product and are often monopolies — usually a recipe for financial success. But no symphony orchestra in the world would be financially viable on its own.That's the startling truth uncovered by Robert Flanagan, a professor of economics at Stanford University and the author of The Perilous Life of Symphony Orchestras. 
+
+
+    window.dataLayer.push({
+      'document':{
+        'embedded':{
+          'coremedia://audiosegment/8400846':{
+            'contentSource':'coremedia',
+            'contentType':'audiosegment',
+            'id':'8400846',
+            'uri':'coremedia://audiosegment/8400846',
+            'title':{
+              
+              'title':'Know the score: the economics of orchestras',
+              
+            },
+            'mediaDuration':'1711',
+            
+            'transcriptAvailable':'false',
+            
+            'streamType':'ondemand',
+            
+          },
+        },
+      },
+    })
+  
+
+            if (typeof inlineAudioData == 'undefined') var inlineAudioData = new Array();
+            inlineAudioData.push([
+              {'url': 'https://abcmedia.akamaized.net/rn/podcast/2017/03/mey_20170330_1730.mp3', 'contentType': 'audio/mp3', 'codec': 'MPEG-1 Audio layer 3', 'bitrate': '128', 'fileSize': '27383040'}
+              
+            ]);
+          
+
+Audio:
+          Listen to the full episode
+
+(The Money)
+"They all run an operating deficit, in the sense that the money they earn from concerts, records and so forth does not cover their expenses," he told The Money.There are many reasons for this, but chief among them is that the expense of running an orchestra is enormous and virtually impossible to bring down.Each orchestra comprises between 45 and 100 musicians, and at least in Australia these are usually salaried employees with superannuation, sick leave and other rights and entitlements.And these labour costs can't really be reduced or made more efficient, as Professor Flanagan points out."Productivity, the labour requirements, are more or less frozen for all time by the composers of classical music," he says.Then there are the fixed costs of venue hire, management staff, conductors and soloists. Orchestras don't have the opportunity to spread these costs over a large number of performances, either."Unlike a musical, which has a lot of set-up costs and can then run for a year and a half to cover the initial cost, an orchestra might spend two or three days in rehearsal and then do two or three performances — that's it!" says David Throsby, a distinguished professor of economics at Macquarie University.Then there's the additional services most modern orchestras offer: education programs and school performances.Regional tours require the organisation and expenditure of something like a military campaign — instruments must be transported with care, musicians must be housed and fed — but the venues are smaller and the ticket prices lower. Orchestras don't just face a supply side problem: demand is decreasing as well."The shape is that the total attendance has declined and continues to decline according to the latest figures gathered for US symphony orchestras," says Professor Flanagan."There are many conjectures about why this is going on. It's not limited to orchestras — the same is true of other performing arts ... and interestingly the same is true of some other traditional leisure activities like fishing, hunting, bowling."There is a shift in society's use of leisure time away from activities we used to think of as traditional uses of leisure time towards other things, which frankly are not well documented." What's certain is that the audience is aging — in 2010, 13.6 per cent of Australians aged 65 to 74 attended a classical music concert, compared to just 6.1 per cent of those aged 25 to 34."There is still a core audience, but if you go into the halls of any of the symphony orchestras you'll probably see quite a bit of silvering of hair," says Mary Vallentine, the former managing director of the Sydney Symphony Orchestra."I think the challenge, then, is to consider programming and make it really exciting for you audiences to come."Currently, the orchestras of the world stay afloat thanks to government assistance. In America that comes indirectly, via a tax deduction for people and organisations who donate to orchestras. In Europe, most are funded entirely by federal, local and state governments.Australian orchestras are somewhere in the middle, relying on a mix of sponsorship, philanthropy and state and federal government assistance.That mix depends on the orchestra and its host city: the Sydney Symphony Orchestra receives about 40 per cent of its funding from the government. For the Tasmanian Symphony Orchestra that figure is closer to 75 per cent. But government funding doesn't mean orchestras aren't trying to make more money and reach new audiences.This month the Melbourne Symphony Orchestra is offering a series of concerts based on the music of Pixar films, while the SSO is promoting La La Land in concert."The audience for mainstream classical repertoire is finite, the subsidies that used to exist that made it possible to perform are shrinking, and commercial prerogatives have to be taken into consideration," says ABC Classic FM presenter Phillip Sametz."The question then becomes: how many weeks of the year can we allocate to the really important things we must do to maintain our standards and status as opposed to the things we really need to do to reach a broader audience but also to make some serious money?" Most orchestras try to attract big-name soloists and conductors in order to sell more tickets, but also to enhance their brand and to keep their musicians "match fit"."You can do commercial work that's of a high standard," says Ms Vallentine."There are great artists who attract great numbers of audiences. You'll see for instance that the Sydney Symphony has had Anne-Sophie Mutter, they've had Lang Lang, they've had a number of artists."You can attract great artists who will also be box office successes."In Europe, some symphony orchestras have already folded, a trend that experts believe is likely to continue.The same may not be true in Australia though."The orchestras I see around the world that have responded by being concerned about the financial side but making sure they don't lose sight of the artistic vibrancy and the momentum they have are the ones that will thrive into the future," says Rory Jeffes, the current managing director of the SSO.For his part, Sametz points to the outreach many Australian orchestras are currently involved in: Chinese New Year concerts, commissioning work from composers who represent the local community, and doing non-traditional, social media-marketed performances in bars and other venues. But in the end, orchestras may never be profitable."Orchestras, like all cultural institutions, do create economic value ... but that's not their primary reason for existence," says Macquarie University's Professor Throsby."Their primary reason for existence, obviously, is to make music."That means it's a different sort of value they're creating, which we can call cultural value or artistic value. It's separate from the hard numbers of the economic value, from the dollars and cents."

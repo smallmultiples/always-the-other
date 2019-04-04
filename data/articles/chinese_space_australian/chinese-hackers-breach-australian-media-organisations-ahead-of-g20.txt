@@ -1,0 +1,27 @@
+A Chinese hacking group believed to be affiliated with the Chinese government has penetrated Australian media organisations ahead of this weekend's G20 meeting, a global cyber security expert says."We started to see activity over the last couple of weeks targeting Australian media organisations and we believe that's related to the G20," Dmitri Alperovitch, co-founder of US computer security company CrowdStrike, told the ABC's 7.30 program.CrowdStrike has named the group "Deep Panda".It is the same group that was outed as sneaking into the networks of US foreign policy think tanks at the height of the Iraq crisis in the middle of the year."[They] typically go after very strategic interests for the Chinese government," he said.Now Deep Panda is targeting Australian media organisations in an attempt to understand the domestic media climate when Chinese president Xi Jinping arrives. Mr Alperovitch said he could not name the media organisations targeted because of confidentiality reasons."[They're looking for] questions they can expect from Australian reporters, what type of coverage, positive or negative, they can expect to see," Mr Alperovitch said.[They're looking for] questions they can expect from Australian reporters, what type of coverage, positive or negative, they can expect to see. Mr Alperovitch also identified another Chinese-government-linked hacking group, which he said was responsible for attacks against commercial and government networks in Australia.Called Vixen Panda, the group has a long track record in Australia."Out of all the groups that we track from China... Vixen Panda is the one with the most focus on Australia," he said.Based on his research, Mr Alperovitch said he believed Vixen Panda was actually a Beijing-based military unit within the People's Liberation Army's Third Department.The Third Department, or 3PLA as it is known, is China's version of the US National Security Agency (NSA) or the Australian Signals Directorate."You have a unit of the Chinese military conducting espionage against Australian Government... and the information that they're stealing is being passed on through the military chain to the leadership of the Chinese government," he said.
+Topics:
+internet-culture,
+
+
+	
+	hacking,
+
+
+	
+	computers-and-technology,
+
+
+	
+	foreign-affairs,
+
+
+	
+	world-politics,
+
+
+	
+	australia,
+
+
+	
+	china

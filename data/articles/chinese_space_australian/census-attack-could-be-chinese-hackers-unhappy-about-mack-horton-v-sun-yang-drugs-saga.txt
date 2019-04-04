@@ -1,0 +1,23 @@
+Melbourne University cyber security expert Suelette Dreyfus says the attacks on yesterday's census could be the work of Chinese citizens unhappy about Australian swimmer Mack Horton calling his Chinese rival Sun Yang a drug cheat. "It's not way out of left field [as a motivation]," she said.She believes the "noisy" attack looks more likely to have been the work of civilians rather than a foreign government.Despite the Australian Government saying the attack was from overseas, Dr Dreyfus still believes it could have come from within Australia."It could have just been literally bedroom hackers in Australia routing their traffic ... through overseas in order to make it appear as though they were coming from there," she said.But Dr Dreyfus believes it is unlikely China's Government would have committed such an attack if it was trying to hack into the census data."If they wanted to get the data, particularly a powerful state actor, they're likely to do it quite quietly because they don't want anyone to know that they're there," she said.The Federal Government described yesterday's attacks as "denial of service attempts," meaning those responsible were trying to block people from accessing the census website.Dr Dreyfus said a denial of service attack is "a particularly noisy way of attacking a site because you're visibly taking down the activities of the site."Prime Minister Malcolm Turnbull insisted the data that was able to be entered into the census website was secure but Dr Dreyfus is yet to be convinced."I think there's a big question mark around whether or not privacy has been protected; certainly functionality wasn't protected," she said."So I think we need to know much more information before we can have confidence that privacy was protected."Australian Privacy Commissioner Timothy Pilgrim said he would conduct an investigation into the attacks.However, Dr Dreyfus believes a parliamentary inquiry is now necessary."I think we need to have a very transparent inquiry into what has gone wrong, preferably at a Senate level," she said.Independent South Australian senator Nick Xenophon is also calling for a Senate inquiry, as is former New South Wales deputy privacy commissioner Anna Johnston. 
+Topics:
+government-and-politics,
+
+
+	
+	federal-government,
+
+
+	
+	wireless-communication,
+
+
+	
+	information-and-communication,
+
+
+	
+	hacking,
+
+
+	
+	australia
